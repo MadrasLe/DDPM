@@ -183,8 +183,3 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-<div align="center">
-
-**Made with 💜 by [Gabriel Yogi](https://github.com/YOUR_USERNAME)**
-
-</div>
