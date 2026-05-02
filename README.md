@@ -75,7 +75,7 @@ DDPM/
 ### Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/DDPM.git
+git clone https://github.com/MadrasLe/DDPM.git
 cd DDPM
 pip install -r requirements.txt
 ```
